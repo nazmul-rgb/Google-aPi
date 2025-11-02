@@ -1,0 +1,7 @@
+{
+  "name": "Speak Note",
+  "description": "An application that captures voice, transcribes it to text, translates it to a selected language, and synthesizes the translated text back into speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
